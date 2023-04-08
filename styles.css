@@ -1,7 +1,13 @@
+@font-face {
+    font-family: 'SulSans-Text';
+    src: url("./fonts/SulSansTest-Regular.otf");
+}
+
 body, html {
     margin: 0;
     padding: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'SulSans-Text', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
     color: #000;
 }
 
